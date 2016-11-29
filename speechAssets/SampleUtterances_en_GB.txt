@@ -1,0 +1,14 @@
+GetNewFactIntent a quote
+GetNewFactIntent a funny quote
+GetNewFactIntent tell me a quote
+GetNewFactIntent tell me a funny quote
+GetNewFactIntent give me a quote
+GetNewFactIntent give me a funny quote
+GetNewFactIntent tell me quote
+GetNewFactIntent tell me a funny quote
+GetNewFactIntent give me quote
+GetNewFactIntent give me a funny quote
+GetNewFactIntent give me some quote
+GetNewFactIntent give me some funny quote
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
